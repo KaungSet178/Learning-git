@@ -4,6 +4,11 @@ git add <file> or git add ./
 git commit -m "<Message>"
 git log
 
+------connect with github repo------
 git branch -M main
 git remote add origin <link>
 git push -u origin main
+
+--------create a branch-----------
+git branch branch-name (or) git branch new=branch-name source-branch
+git checkout branch-name
