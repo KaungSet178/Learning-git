@@ -3,3 +3,7 @@ git init
 git add <file> or git add ./
 git commit -m "<Message>"
 git log
+
+git branch -M main
+git remote add origin <link>
+git push -u origin main
